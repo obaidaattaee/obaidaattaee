@@ -83,18 +83,21 @@ I'm a passionate **Software Developer** with **4+ years of experience** in the i
 ## 💼 Professional Experience
 
 ### 🌐 **Web Development Journey**
+
 - **Started in 2021** with core web technologies: HTML, CSS, JavaScript
 - **Backend Expertise**: PHP and Laravel framework development
 - **Database Management**: Extensive experience with multiple database systems
 - **API Development**: RESTful services with proper documentation using Swagger
 
 ### 🔧 **DevOps & System Administration**
+
 - **Linux System Administration**: Server management and optimization
 - **CI/CD Implementation**: Jenkins, GitHub Actions, and GitLab CI/CD pipelines
 - **Database Administration**: MySQL, PostgreSQL, SQL Server, SQLite, MariaDB, Redis
 - **Performance Optimization**: System monitoring and performance tuning
 
 ### 🏗️ **Scalable Architecture & Infrastructure**
+
 - **Multi-Server Systems**: Designed and implemented scalable systems across multiple servers
 - **Load Balancing**: High-availability configurations with advanced load balancing strategies
 - **MySQL Router**: Database routing and failover implementations for high availability
@@ -102,6 +105,7 @@ I'm a passionate **Software Developer** with **4+ years of experience** in the i
 - **CDN & Caching**: Cloudflare integration for global content delivery and performance optimization
 
 ### 💼 **Financial Technology & Integrations**
+
 - **Cryptocurrency Exchanges**: API integrations with major crypto trading platforms
 - **Forex Brokers**: Real-time data feeds and trading system integrations
 - **Payment Systems**: Complex financial data processing and transaction handling
@@ -109,6 +113,7 @@ I'm a passionate **Software Developer** with **4+ years of experience** in the i
 - **System Integrations**: Custom solutions connecting disparate business systems
 
 ### 🧪 **Quality Assurance & Testing**
+
 - **Manual Testing**: Comprehensive test case design and execution
 - **Test Automation**: Python, Selenium, Cypress.io, and Katalon Studio
 - **Framework Development**: Built **3 complete automation frameworks** for business software
@@ -138,15 +143,15 @@ I'm a passionate **Software Developer** with **4+ years of experience** in the i
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=obaidaattaee&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obaidaattaee&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidaattaee&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -165,18 +170,18 @@ I'm a passionate **Software Developer** with **4+ years of experience** in the i
 
 ## 🎯 Current Focus
 
-- 🚀 Building scalable multi-server web applications with modern frameworks
-- 🤖 Developing advanced test automation solutions
-- 🔧 Implementing efficient DevOps practices and infrastructure optimization
-- 💰 Working on financial technology integrations with crypto and forex platforms
-- ☁️ Optimizing cloud storage and CDN performance
-- 📚 Continuous learning and skill enhancement in emerging technologies
-- 🌟 Contributing to open-source projects
+- 👨‍💼 **Leading Software Development Teams** - Managing and mentoring development teams to deliver high-quality solutions
+- 🏗️ **Architecting High-Performance Systems** - Designing and implementing enterprise-level scalable architectures
+- ⚡ **Performance Optimization** - Building systems that handle massive traffic and data loads efficiently
+- 🔧 **Infrastructure Leadership** - Overseeing complex multi-server deployments and cloud infrastructure
+- 📊 **Technical Strategy** - Making architectural decisions for long-term scalability and maintainability
+- 🚀 **Team Productivity** - Implementing best practices, code reviews, and development workflows
+- 💡 **Innovation & Research** - Exploring cutting-edge technologies to enhance system performance and team efficiency
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=obaidaattaee&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
 <div align="center">
